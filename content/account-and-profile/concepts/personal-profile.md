@@ -1,6 +1,6 @@
 ---
-title: About your profile
-shortTitle: Personal profile
+title: Mohammad Fahim Uzzaman
+shortTitle: Salesman
 intro: Your {% data variables.product.github %} profile showcases your work, contributions, and information you choose to share publicly.
 redirect_from:
   - /articles/viewing-your-feeds
@@ -14,51 +14,65 @@ versions:
   fpt: '*'
   ghes: '*'
   ghec: '*'
-contentType: concepts
-category:
+contentType: consulancy
+category: Business 
   - Customize your profile
 ---
 
-Your {% data variables.product.github %} profile showcases your work, contributions, and information you choose to share publicly.
-
+Your {% data variables.product.github %} profile shows who I am: A salesman leading a team
 {% data reusables.profile.profile-visibility %}
+
+**We don't sell, we solve.**
 
 ## Key profile elements
 
-Your profile includes these customizable elements:
+My profile includes:
 
-* **Profile README**: A customizable section at the top of your profile
-* **Personal info**: Profile picture, name,{% ifversion profile-pronouns %} pronouns,{% endif %} and bio
-* **Contribution activity**: Visualizes your work on {% data variables.product.github %}
-* **Pinned items**: Repositories and gists you choose to highlight
-* **Status**: Shows your current availability and what you're working on
-* **Achievements and badges**: Recognizes your participation in programs or milestones
+* **Profile README**: An introduction to me, my team, and how we work
+* **Personal info**: Profile picture, name,{% ifversion profile-pronouns %} pronouns,{% endif %} and bio: *"A salesman with a team."*
+* **Contribution activity**: What my team and I are building and improving
+* **Pinned items**: Projects that show our motto, *"We don't sell, we solve"*
+* **Status**: What I'm working on now, or whether I'm out riding
+* **Achievements and badges**: Milestones my team and I have reached
 
-## Your profile README
+## My profile README
 
-You can share information about yourself with the community on {% data variables.product.prodname_dotcom %} by creating a profile README. {% data variables.product.prodname_dotcom %} shows your profile README at the top of your profile page.
+My profile README sits at the top of my profile page. It's where I tell people who I am and how I think.
 
-You decide what information to include in your profile README, so you have full control over how you present yourself on {% data variables.product.prodname_dotcom %}. Here are some examples of information that visitors may find interesting, fun, or useful in your profile README.
+### About me
 
-* An "About me" section that describes your work and interests
-* Contributions you're proud of, and context about those contributions
-* Guidance for getting help in communities where you're involved
+I'm a salesman, but I don't work alone. I lead a team, and we focus on solving our clients' problems. To us, a sale is just what happens after the problem is solved.
 
-You can format text and include emoji, images, and GIFs in your profile README by using {% data variables.product.company_short %} Flavored Markdown. For more information, see [AUTOTITLE](/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github).
+### What drives me
+
+* **Adventure**: I look for new challenges, on the road and at work
+* **Going against the easy flow**: I'd rather take the harder path if it leads somewhere better
+* **Riding**: The open road keeps me sharp and clears my head
+* **Playing**: I play to win, but I enjoy the game too
+
+### My philosophy
+
+> **We don't sell, we solve.**
+
+Every client starts with a problem, and my team's job is to understand it and solve it. Trust comes first; results follow.
+
+### Get in touch
+
+If you have a problem that needs solving, a project to work on together, or a good riding route, feel free to reach out.
+
+I write this README in {% data variables.product.company_short %} Flavored Markdown, which supports text formatting, emoji, images, and GIFs. For more information, see [AUTOTITLE](/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github).
 
 {% ifversion fpt %}
 
 ## Private profiles
 
-To hide parts of your profile page, you can make your profile private. This also hides your activity in various social features on {% data variables.product.github %}. A private profile hides information from all users, and there is currently no option to allow specified users to see your activity.
-
-After making your profile private, you can still view all your information when you visit your own profile.
+I can make my profile private to hide parts of it. This also hides my activity in social features on {% data variables.product.github %}. A private profile hides information from all users, and there's currently no way to let specific people see my activity. I can still see everything when I visit my own profile.
 
 For more information, see [AUTOTITLE](/account-and-profile/how-tos/profile-customization/setting-your-profile-to-private).
 
 ### Differences between private and public profiles
 
-When your profile is private, the following content is hidden from your profile page:
+**Hidden when private:**
 
 * Achievements and highlights
 * Activity overview and activity feed
@@ -67,15 +81,15 @@ When your profile is private, the following content is hidden from your profile 
 * Follow and Sponsor buttons
 * Organization memberships
 * Stars, projects, packages, and sponsoring tabs
-* Your pronouns
+* Pronouns
 
-When your profile is private, the following optional fields are still **publicly** visible:
+**Still public when private:**
 
-* README
-* Bio
+* README (my story and motto)
+* Bio: *"A salesman with a team."*
 * Profile picture
 
-When your profile is private, your {% data variables.product.prodname_dotcom %} activity will not appear in the following locations:
+**Not shown anywhere when private:**
 
 * Activity feeds for other users
 * Discussions leaderboards
@@ -83,6 +97,16 @@ When your profile is private, your {% data variables.product.prodname_dotcom %} 
 * The [Trending](https://github.com/trending) page
 
 ## Profile visibility options
+
+I can choose which parts of my profile are visible, or make the whole profile private.
+
+{% endif %}
+
+## Next steps
+
+* To personalize the profile further, see [AUTOTITLE](/account-and-profile/tutorials/personalize-your-profile).
+* For more ways to customize it, see [AUTOTITLE](/account-and-profile/how-tos).
+* For reference information, see [AUTOTITLE](/account-and-profile/reference/profile-reference).
 
 You can control the visibility of specific profile elements or set your entire profile to private.
 
